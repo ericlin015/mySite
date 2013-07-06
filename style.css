@@ -1,0 +1,26 @@
+
+body{
+font-family : Arial;
+}
+
+#main{
+}
+
+ul#menu li{
+	float:left;
+	padding-left: 20px;
+}
+
+ul#menu li a{
+	text-decoration:none;
+	color: red;
+	font-size: 20px;
+}
+
+#backgroundDisplay{
+	background-color:#666666;
+	width: 600px;
+	height: 600px;
+	margin:auto;
+
+}
