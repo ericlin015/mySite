@@ -22,5 +22,21 @@ ul#menu li a{
 	width: 600px;
 	height: 600px;
 	margin:auto;
-
+	display:block;
 }
+
+.buttonAnima{
+}
+
+#buttonSection{
+	position:relative;
+	background-color:  #666666;
+	background-repeat: 	no-repeat;
+	border:none;
+	margin:270px 270px 270px 270px;
+	width: 60px;
+	height: 60px;
+	display:inline-block;
+}
+
+
