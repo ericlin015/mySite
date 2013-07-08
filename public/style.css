@@ -18,6 +18,7 @@ ul#menu li a{
 }
 
 #backgroundDisplay{
+	position:relative;
 	background-color:#666666;
 	width: 600px;
 	height: 600px;
@@ -29,11 +30,12 @@ ul#menu li a{
 }
 
 #buttonSection{
-	position:relative;
+	opacity:0.7;
+	position: absolute;
 	background-color:  #666666;
 	background-repeat: 	no-repeat;
 	border:none;
-	margin:270px 270px 270px 270px;
+	margin:270px 270px;
 	width: 60px;
 	height: 60px;
 	display:inline-block;
